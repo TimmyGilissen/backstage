@@ -1,5 +1,20 @@
 # @backstage/plugin-catalog
 
+## 0.2.6
+
+### Patch Changes
+
+- 6011b7d3e: Added pagerduty plugin to example app
+- Updated dependencies [83b6e0c1f]
+- Updated dependencies [1665ae8bb]
+- Updated dependencies [ff243ce96]
+  - @backstage/catalog-model@0.5.0
+  - @backstage/theme@0.2.2
+  - @backstage/core@0.4.0
+  - @backstage/catalog-client@0.3.3
+  - @backstage/plugin-scaffolder@0.3.3
+  - @backstage/plugin-techdocs@0.3.2
+
 ## 0.2.5
 
 ### Patch Changes
